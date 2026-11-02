@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=ghost%40kali%3A~%24+whoami;Yordan+Yordanov+%7C+darkyordanov;BSc+Cybersecurity+%E2%80%9$
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=ghost%40kali%3A~%24+whoami;Yordan+Yordanov+%7C+darkyordanov;BSc+Cybersecurity+%E2%80%94+University+of+Telecommunications%2C+Sofia;Offensive+Mindset+%2B+ThinkCyber+%2B+HackTheBox)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,6 @@
 
 ---
 
-
 ```
 ┌─[ghost㉿kali]-[~]
 └─$ ls ./skills/
@@ -35,7 +34,7 @@
 
 ```
 ┌─[ghost㉿kali]-[~]
-└─$ ls cybersecurity_./projects/
+└─$ ls ./projects/
 
   ghostlogin/   — automated SSH credential brute-force & PoC (bash · nmap · sshpass)
                   NX201 capstone | lab/CTF use only
