@@ -40,21 +40,6 @@
                   NX201 capstone | lab/CTF use only
 ```
 
-<div align="center">
-
-[![ghostlogin](https://github-readme-stats.vercel.app/api/pin/?username=darkyordanov&repo=ghostlogin&theme=dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide_border=false)](https://github.com/darkyordanov/ghostlogin)
-
-</div>
-
----
-
-<div align="center">
-
-[![streak](https://streak-stats.demolab.com?user=darkyordanov&theme=dark&background=0d0d0d&border=00ff41&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=888888)](https://github.com/darkyordanov)
-
-</div>
-
----
 
 <div align="center">
 
