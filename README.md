@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=ghost%40kali%3A~%24+whoami;Yordan+Yordanov+%7C+darkyordanov;BSc+Cybersecurity+%E2%80%94+University+of+Telecommunications%2C+Sofia;Offensive+Mindset+%2B+ThinkCyber+%2B+HackTheBox)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=ghost%40kali%3A~%24+whoami;Yordan+Yordanov+%7C+darkyordanov;BSc+Cybersecurity+%E2%80%94+University+of+Telecommunications%2C+Sofia;Offensive+Mindset+%2B+ThinkCyber+%2B+HackTheBox+%2B+SOC;Builds+his+own+SIEM+%7C+Detection+Engineering)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,10 +24,12 @@
 └─$ ls ./skills/
 
   [offense]    nmap · sshpass · hydra · netcat · burpsuite · wireshark
+  [defense]    SIEM · detection engineering · MITRE ATT&CK · FIM · GeoIP
+  [networks]   TCP/IP · routing · firewalls · VPN · segmentation
   [forensics]  disk/file analysis · log analysis · auth.log · grep pipelines
-  [systems]    linux · kali · debian · docker · vmware vsphere · windows
+  [systems]    linux · kali · debian · docker · vmware vsphere · windows · systemd
   [scripting]  bash · python
-  [other]      git · fail2ban · osint · google dorking
+  [other]      git · fail2ban · nginx · osint · google dorking
 ```
 
 ---
@@ -36,42 +38,13 @@
 ┌─[ghost㉿kali]-[~]
 └─$ ls ./projects/
 
+  soc-guard/    — self-hosted SIEM-lite · pure Python stdlib · ~14MB RAM
+                  tails nginx + SSH logs → MITRE ATT&CK detections → Telegram
+                  FIM · GeoIP enrichment · FastAPI dashboard over SSH tunnel
+                  → github.com/darkyordanov/soc-guard
+
   ghostlogin/   — automated SSH credential brute-force & PoC (bash · nmap · sshpass)
                   NX201 capstone | lab/CTF use only
-```
-
----
-
-```
-┌─[ghost㉿kali]-[~]
-└─$ cat skull.txt
-
-                 uuuuuuu
-             uu$$$$$$$$$$$uu
-          uu$$$$$$$$$$$$$$$$$uu
-         u$$$$$$$$$$$$$$$$$$$$$u
-        u$$$$$$$$$$$$$$$$$$$$$$$u
-       u$$$$$$$$$$$$$$$$$$$$$$$$$u
-       u$$$$$$$$$$$$$$$$$$$$$$$$$u
-       u$$$$$$"   "$$$"   "$$$$$$u
-       "$$$$"      u$u       $$$$"
-        $$$u       u$u       u$$$
-        $$$u      u$$$u      u$$$
-         "$$$$uu$$$   $$$uu$$$$"
-          "$$$$$$$"   "$$$$$$$"
-            u$$$$$$$u$$$$$$$u
-             u$"$"$"$"$"$"$u
-  uuu        $$u$ $ $ $ $u$$       uuu
- u$$$$        $$$$$u$u$u$$$       u$$$$
-  $$$$$uu      "$$$$$$$$$"     uu$$$$$$
-u$$$$$$$$$$$uu    """""    uuuu$$$$$$$$$$
-$$$$"""$$$$$$$$$$uuu   uu$$$$$$$$$"""$$$"
- """      ""$$$$$$$$$$$uu ""$"""
-           uuuu ""$$$$$$$$$$uuu
-  u$$$uuu$$$$$$$$$uu ""$$$$$$$$$$$uuu$$$
-  $$$$$$$$$$""""           ""$$$$$$$$$$$"
-   "$$$$$"                      ""$$$$""
-     $$$"                         $$$$"
 ```
 
 ---
